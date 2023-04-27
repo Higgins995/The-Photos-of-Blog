@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T11:01:46.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="fubzJpFeeMB7Xzb7VPwp" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T11:11:12.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="KoBfOKYrLPSqjoy1Jh80" version="21.2.2" type="github">
   <diagram name="第 1 页" id="2hOxzCOpTmneBKynY9Bh">
-    <mxGraphModel dx="1090" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2480" dy="1135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-5" value="$$\mathcal{A}$$" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-5" value="$$\mathcal{A}$$" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="228" y="183" width="37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-12">
@@ -49,7 +49,7 @@
             <mxPoint x="534.4853641285617" y="288.3529411764706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-16" value="$$\Lambda_{\theta_{0}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-16" value="$$\Lambda_{\theta_{0}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="425" y="248" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-19">
@@ -87,7 +87,7 @@
             <mxPoint x="818.4853641285617" y="288.3529411764706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-84" value="$$\Lambda_{\theta_{1}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-84" value="$$\Lambda_{\theta_{1}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="709" y="248" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-86">
@@ -188,8 +188,8 @@
             <mxPoint x="635.5" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-129" value="A块的结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="514" y="402" width="102" height="30" as="geometry" />
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-129" value="第 $$k$$ 个 $$\Lambda_{\theta_{k}}$$ 块的结构" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;horizontal=1;fontFamily=Times New Roman;html=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="397" width="274" height="113" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -232,6 +232,24 @@
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-142" value="图卷积层" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1063" y="652" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-143" value="$$x_0$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="230" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-144" value="$$\delta x_0$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="276" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-146" value="$$x_1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-147" value="$$\delta x_1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-148" value="$$\mathcal{A}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="191" y="480" width="37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-149" value="$$H^{(0)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="581" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
