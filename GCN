@@ -1,25 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T10:51:20.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="txLZ5J73DH1-WlfVUf35" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T11:01:46.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="fubzJpFeeMB7Xzb7VPwp" version="21.2.2" type="github">
   <diagram name="第 1 页" id="2hOxzCOpTmneBKynY9Bh">
-    <mxGraphModel dx="1907" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1090" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="137" y="99" width="1062" height="648" as="geometry" />
+          <mxGeometry x="113" y="81" width="1062" height="648" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-2" value="基于牛顿法的图卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="448" y="113" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="813.5" y="198" as="targetPoint" />
+            <mxPoint x="816" y="198" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="814" y="199" />
+              <mxPoint x="812" y="198" />
+              <mxPoint x="812" y="198" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-5" value="A" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="227" y="184" width="37" height="30" as="geometry" />
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-5" value="$$\mathcal{A}$$" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="183" width="37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-12">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +49,7 @@
             <mxPoint x="534.4853641285617" y="288.3529411764706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-16" value="A_E_k" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-16" value="$$\Lambda_{\theta_{0}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="248" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-19">
@@ -86,7 +87,7 @@
             <mxPoint x="818.4853641285617" y="288.3529411764706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-84" value="A_E_k" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-84" value="$$\Lambda_{\theta_{1}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#CC6600;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="709" y="248" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#E01515;" edge="1" parent="1" source="WgXvVtDSBeFXfCxVqVcE-86">
