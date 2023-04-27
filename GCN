@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T11:13:12.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="MSUTPSov6aB54ImReM9K" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T11:17:37.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="gFfVb2Sv33o8JighqEWg" version="21.2.2" type="github">
   <diagram name="第 1 页" id="2hOxzCOpTmneBKynY9Bh">
     <mxGraphModel dx="1760" dy="960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -212,7 +212,7 @@
             <mxPoint x="990" y="444" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-136" value="计算 x" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-136" value="计算 `\delta x`" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1063" y="429" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-137" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;strokeColor=#994C00;shadow=0;labelBorderColor=default;strokeWidth=3;" vertex="1" parent="1">
@@ -224,7 +224,7 @@
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-139" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#808080;shadow=0;labelBorderColor=default;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="999" y="567" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-140" value="RuLU(GCN)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-140" value="ReLU(GCN)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1063" y="572" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-141" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;shadow=0;labelBorderColor=default;strokeWidth=3;" vertex="1" parent="1">
@@ -248,8 +248,17 @@
         <mxCell id="WgXvVtDSBeFXfCxVqVcE-148" value="$$\mathcal{A}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="191" y="480" width="37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WgXvVtDSBeFXfCxVqVcE-149" value="$$H^{(0)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-149" value="$$H^{(0)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="185" y="581" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-153" value="$$H^{(1)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="366" y="652" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-155" value="$$H^{(1)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="526" y="652" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WgXvVtDSBeFXfCxVqVcE-156" value="$$H^{(2)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="686" y="652" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
